@@ -3,6 +3,7 @@
 using namespace std;
 
 void generateSubsequences(vector<int>& arr, vector<int>& output, int index) {
+    // no of subsequence = 2^n - 1
     if (index == arr.size()) { // Base case: if we reach the end of the array
         cout << "{";
         for (int i = 0; i < output.size(); i++) {
