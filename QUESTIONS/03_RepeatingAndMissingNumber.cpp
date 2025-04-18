@@ -56,3 +56,4 @@ int main(){
     findAndReplace(arr, n);
     return 0;
 }
+
