@@ -49,7 +49,7 @@ void backtrack(vector<int>& candidates, int target, int start, vector<int>& curr
     }
 5) google interview questions from 2022-2024
 6) tuf
-7) https://www.geeksforgeeks.org/problems/subset-sums2234/0 also leetcode, subset sum ii leetcode
+7) subset sum ii leetcode
 8) 40 leetcode
 
 13 march
@@ -141,3 +141,11 @@ infinite chess bo
 dp
 62
 https://codeforces.com/contest/1324/problem/C
+
+25 apr 2025
+longest common subsequence
+322
+matrix chain multiplication
+removing digits cses
+word break dp
+unique paths formulation
