@@ -45,5 +45,6 @@ int main() {
         cin >> arr[i];
     }
     previousGreaterElement(arr, n);
-    return 0;
+
 }
+

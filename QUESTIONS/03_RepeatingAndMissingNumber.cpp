@@ -55,4 +55,8 @@ int main(){
     }
     findAndReplace(arr, n);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 844a7f3 (Add file)
